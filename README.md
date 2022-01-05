@@ -31,3 +31,8 @@ ______________________
 Primarily focus on JavaScript, React, and Next.js
 
 Using React on the front end, NodeJS on the back end
+
+
+
+
+/**MERN is a full-stack, following the traditional 3-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).**/
