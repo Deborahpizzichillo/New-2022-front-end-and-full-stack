@@ -15,7 +15,9 @@ ______________________
 ° Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
+
+
 All Full-stack pages 
 ______________________
 
-
+Primarily focus on JavaScript, React, and Next.js
