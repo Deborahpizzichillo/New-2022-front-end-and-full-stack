@@ -4,6 +4,8 @@
 All Front-end pages 
 ______________________
 
+° Responsive website 
+
 ° Dark interface.
 
 ° With animations when scrolling.
