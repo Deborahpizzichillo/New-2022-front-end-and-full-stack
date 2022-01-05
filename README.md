@@ -15,3 +15,7 @@ ______________________
 ° Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
+All Full-stack pages 
+______________________
+
+
