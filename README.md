@@ -28,9 +28,9 @@ ______________________
 All Full-stack pages 
 ______________________
 
-Primarily focus on JavaScript, React, and Next.js
+° Primarily focus on JavaScript, React, and Next.js
 
-Using React on the front end, NodeJS on the back end
+° Using React on the front end, NodeJS on the back end
 
 
 
